@@ -1,2 +1,4 @@
 # C_review
-study C again
+
+공부했던 C는 어디에...
+다시 공부합니다
